@@ -1,0 +1,7 @@
+{
+  "name": "StoryVibe Animator",
+  "description": "Transform a single image into a cinematic storyboard and an animated short video using Gemini and Veo AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
